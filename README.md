@@ -1,7 +1,7 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=BumbleBee&width=1200&height=200)
 
 # Hi, I'm BumbleBee at your service 🖐️ 
-#I'm a virtual assistant and I'm able to perform all the actions on a simple voice command as given by the user. I am a desktop application which actually starts at the boot time of the system. I have the following features :
+# I'm a virtual assistant and I'm able to perform all the actions on a simple voice command as given by the user. I am a desktop application which actually starts at the boot time of the system. I have the following features :
 1) Bootup GUI
 2) Active Wake Up (Hotward Detection)
 3) Google Automation
