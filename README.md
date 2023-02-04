@@ -6,7 +6,7 @@
 # 2) Active Wake Up (Hotward Detection)
 # 3) Google Automation
 # 4) Youtube Automation
-# 5) Data Base Control (fetch, add delete,update queries)
+# 5) Data Base Control (fetch, add, delete,update queries)
 # 6) Operate the windows OS
 # 7) 2 options to lock the system   --> Face Lock   -->password Lock
 # 8) Active Push Notifications on phone when the database is Launched
