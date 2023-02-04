@@ -2,14 +2,14 @@
 
 # Hi, I'm BumbleBee at your service 🖐️ 
 # I'm a virtual assistant and I'm able to perform all the actions on a simple voice command as given by the user. I am a desktop application which actually starts at the boot time of the system. I have the following features :
-1) Bootup GUI
-2) Active Wake Up (Hotward Detection)
-3) Google Automation
-4) Youtube Automation
-5) Data Base Control (fetch, add delete,update queries)
-6) Operate the windows OS
-7) 2 options to lock the system   --> Face Lock   -->password Lock
-8) Active Push Notifications on phone when the database is Launched
-9) Voice Controlled Typing
+# 1) Bootup GUI
+# 2) Active Wake Up (Hotward Detection)
+# 3) Google Automation
+# 4) Youtube Automation
+# 5) Data Base Control (fetch, add delete,update queries)
+# 6) Operate the windows OS
+# 7) 2 options to lock the system   --> Face Lock   -->password Lock
+# 8) Active Push Notifications on phone when the database is Launched
+# 9) Voice Controlled Typing
 
-I'm an AI model that uses speech recognition and voice synthesis to understant the user commands and then look for the matched query and speak the result. 
+# I'm an AI model that uses speech recognition and voice synthesis to understant the user commands and then look for the matched query and speak the result. 
