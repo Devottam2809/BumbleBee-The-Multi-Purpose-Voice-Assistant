@@ -13,3 +13,5 @@
 # 9) Voice Controlled Typing
 
 # I'm an AI model that uses speech recognition and voice synthesis to understant the user commands and then look for the matched query and speak the result. 
+
+[final presentation.pptx](https://github.com/Devottam2809/BumbleBee-The-Multi-Purpose-Voice-Assistant/files/10610482/final.presentation.pptx)
