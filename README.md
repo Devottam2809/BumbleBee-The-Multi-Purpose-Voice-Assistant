@@ -17,3 +17,7 @@
 Presentation of This Model
 
 [final presentation.pptx](https://github.com/Devottam2809/BumbleBee-The-Multi-Purpose-Voice-Assistant/files/10610482/final.presentation.pptx)
+
+Project R[mini project001_merged (1).pdf](https://github.com/Devottam2809/BumbleBee-The-Multi-Purpose-Voice-Assistant/files/11107491/mini.project001_merged.1.pdf)
+eport 
+
