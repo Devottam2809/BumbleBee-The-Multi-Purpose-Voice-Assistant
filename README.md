@@ -21,6 +21,7 @@ Presentation of This Model
 Project Report
 [mini project001_merged (1).pdf](https://github.com/Devottam2809/BumbleBee-The-Multi-Purpose-Voice-Assistant/files/11107491/mini.project001_merged.1.pdf)
 
-# Google Drive
-https://drive.google.com/drive/folders/11BMT1X_URUPwhS8tzoEXHG9mtEshBwJW?usp=share_link
+# Google Drive (Video of model part 1)
+https://drive.google.com/file/d/1sc3gEHt3V4tqNsqSQ60OYyqWQx3nFScA/view?usp=sharing
+
 
