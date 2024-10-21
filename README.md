@@ -17,6 +17,6 @@ I'm an AI model that uses speech recognition and voice synthesis to understant t
 # Google Drive (Video of model part 1)
 https://drive.google.com/file/d/1sc3gEHt3V4tqNsqSQ60OYyqWQx3nFScA/view?usp=sharing
 
-# Video of Working of Iot Module
+# Working of Iot Module(Video)
 https://www.linkedin.com/feed/update/urn:li:activity:7067017140058361856/?originTrackingId=ixX97QJ3TWOD4QphctWvyQ%3D%3D
 
